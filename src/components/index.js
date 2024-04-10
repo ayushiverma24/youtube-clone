@@ -5,4 +5,5 @@ import { VideoDetail } from "./VideoDetail/VideoDetail";
 import { SearchBar } from "./SearchBar/SearchBar";
 import { Feed } from "./Feed/Feed";
 import { Sidebar } from "./Sidebar/Sidebar";
-export {Navbar , SearchFeed, ChannelDetail, VideoDetail, SearchBar, Feed, Sidebar}
+import { Videos } from "./Videos/Videos";
+export {Navbar , SearchFeed, ChannelDetail, VideoDetail, SearchBar, Feed, Sidebar, Videos}
