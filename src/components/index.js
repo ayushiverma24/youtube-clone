@@ -3,4 +3,6 @@ import { SearchFeed } from "./SearchFeed/SearchFeed";
 import { ChannelDetail } from "./ChannelDetail/ChannelDetail";
 import { VideoDetail } from "./VideoDetail/VideoDetail";
 import { SearchBar } from "./SearchBar/SearchBar";
-export {Navbar , SearchFeed, ChannelDetail, VideoDetail, SearchBar}
+import { Feed } from "./Feed/Feed";
+import { Sidebar } from "./Sidebar/Sidebar";
+export {Navbar , SearchFeed, ChannelDetail, VideoDetail, SearchBar, Feed, Sidebar}
